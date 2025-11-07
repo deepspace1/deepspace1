@@ -74,10 +74,9 @@
     </tr>
   </table>
 
-  
-> A curated collection of my creative web projects — blending design, logic, and interactivity.
-
 ---
+  
+  <h2 style="color:#00FFFF;">A curated collection of my experiments on creative web projects — blending design, logic, and interactivity.</h2>
 
 ### 🎨 **Color Combination Generator**
 A simple yet powerful utility for designers to generate aesthetic and balanced color palettes.
@@ -87,7 +86,7 @@ A simple yet powerful utility for designers to generate aesthetic and balanced c
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
-🔗 **[View Online](https://hkumar-me.github.io/Color-Combination-Generator/)**
+🔗 **[View Online](https://hkumar-me.github.io/colorCombination/)**
 
 ---
 
