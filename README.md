@@ -5,12 +5,12 @@
 
 <!-- Full-width banner -->
 <p align="center">
-  <img src="./e14f06da-f012-44d5-a7db-dee7091b017d.png" alt="Harsh Kumar Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.8);" />
+  <img src="./2c3dd0d7-0bbf-4d11-82dc-2052615f33a3.png" alt="Harsh Kumar Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.8);" />
 </p>
 
 <!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi,+I'm+Harsh+Kumar+👋;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Futuristic+Apps+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Harsh+Kumar+👋;Transforming+Ideas+into+Intelligence+⚙️;Blending+AI,+Code,+and+Creativity+💡;Where+Logic+Meets+Imagination+🚀;Crafting+Futuristic+Web+Experiences+🌌;Exploring+The+Next+Digital+Frontier+🪐" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -93,7 +93,7 @@
 
 ## ✨ Animated Vibes
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&width=720&lines=Building+AI+Tools+⚙️;Creating+Futuristic+Web+Apps+🌐;Automating+Deployments+with+DevOps+🧩;Exploring+Space+Tech+and+Logic+🪐" alt="animated lines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF7&width=720&lines=Dreaming+in+Code+and+Building+with+Purpose+💭;Teaching+Machines+to+Think,+Learn,+and+Create+🧠;Turning+Data+into+Decisions,+and+Ideas+into+Reality+⚡;When+Innovation+Meets+Imagination,+Magic+Happens+🌌;Building+the+Future,+One+Line+of+Code+at+a+Time+🚀" alt="animated lines" />
 </p>
 
 ---
