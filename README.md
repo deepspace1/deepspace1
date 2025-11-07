@@ -74,6 +74,71 @@
     </tr>
   </table>
 
+  
+> A curated collection of my creative web projects — blending design, logic, and interactivity.
+
+---
+
+### 🎨 **Color Combination Generator**
+A simple yet powerful utility for designers to generate aesthetic and balanced color palettes.
+
+💻 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+🔗 **[View Online](https://hkumar-me.github.io/Color-Combination-Generator/)**
+
+---
+
+### 🌅 **Sundown Studio Clone**
+A responsive, pixel-perfect clone of the Sundown Studio landing page showcasing front-end precision and animations.
+
+💻 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+🔗 **[View Online](https://hkumar-me.github.io/sundown-studio-clone/)**
+
+---
+
+### 💼 **Portfolio Website**
+My personal portfolio — a creative digital identity built with pure HTML, CSS, and JS to reflect simplicity and clarity.
+
+💻 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+🌐 **[Visit Portfolio](https://hkumar-me.github.io/HarshPortfolio/#home)**
+
+---
+
+### 🎮 **Number Game**
+A fun and interactive browser-based number guessing game made to enhance logic and front-end interactivity.
+
+💻 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+🕹️ **[Play Now](https://hkumar-me.github.io/NumberGame/)**
+
+---
+
+## 🪐 Legacy GitHub Profile
+
+These early projects were originally built under my previous GitHub account —  
+a reflection of my early journey into design and development.
+
+🔗 **[hkumar-me (Old Profile)](https://github.com/hkumar-me)**
+
+🛰️ *Preserving the roots while evolving with AI, Tech, and Space-inspired creativity.*
+
+---
+
+
   <!-- Neon Divider -->
   <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 40px auto;">
 
