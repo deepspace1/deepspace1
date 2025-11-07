@@ -1,250 +1,102 @@
 <!-- ==========================
-     HARSH KUMAR — PROFILE README
-     Theme: Futuristic AI x Tech x Space
+     HARSH KUMAR — ANIMATED README (GitHub-Compatible)
+     Theme: Futuristic AI x Space x Tech
    ========================== -->
 
-<!-- Full-width banner -->
-<p align="center">
-  <img src="./banner.png" alt="Harsh Kumar Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.8);" />
-</p>
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#e0e0e0;">
 
+  <!-- Banner -->
+  <img src="./banner.png" alt="Harsh Kumar Banner" width="100%" style="border-radius:12px;box-shadow:0 0 30px rgba(0,255,255,0.3);margin-bottom:20px;">
 
+  <!-- Animated Name -->
+  <h1 style="
+      font-size:2.8rem;
+      font-family:'Orbitron', sans-serif;
+      color:#00FFFF;
+      text-shadow:0 0 10px #00FFFF, 0 0 20px #00FFFF;
+    ">
+    Harsh Kumar
+  </h1>
 
-<p align="center">
-  <em>🚀 Full-Stack Developer • AI & ML Enthusiast • DevOps Learner</em>
-</p>
+  <h3 style="color:#9be0ff; margin-top:-10px;">🚀 Full-Stack Developer | 🧠 AI & ML Enthusiast | ☁️ DevOps Learner</h3>
 
-<p align="center">
-  <!-- Badges -->
-  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Lang-JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+  <p style="font-style:italic; color:#8bd5ff;">Crafting intelligent systems that fuse logic, design, and automation ✨</p>
 
----
+  <!-- Divider -->
+  <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 30px auto;">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=header&reversal=true"/>
+  <!-- About Section -->
+  <h2 style="color:#00FFFF;">🚀 About Me</h2>
+  <p style="max-width:750px; margin:auto; font-size:1rem; color:#d0d0d0;">
+    🎓 BE in Computer Science & Engineering — Ramaiah Institute of Technology (2022–2026)<br>
+    💻 Building AI-integrated, DevOps-ready, and scalable applications.<br>
+    🌱 Exploring <strong>LangChain</strong>, <strong>Next.js</strong>, and Generative AI systems.<br>
+    🧠 Passionate about DSA, automation, and futuristic problem-solving.
+  </p>
+
+  <!-- Neon Divider -->
+  <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 30px auto;">
+
+  <!-- Tech Stack -->
+  <h2 style="color:#00FFFF;">🧠 Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,express,mongodb,mysql,tf,git,docker,jenkins,azure&perline=6" width="85%">
+
+  <!-- Neon Divider -->
+  <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 30px auto;">
+
+  <!-- Projects Section -->
+  <h2 style="color:#00FFFF;">🏗️ Featured Projects</h2>
+
+  <!-- Cards Grid -->
+  <table>
+    <tr>
+      <td width="33%" align="center" style="padding:15px;">
+        <div style="background:rgba(0,255,255,0.05); border:1px solid rgba(0,255,255,0.3); border-radius:12px; padding:20px;">
+          <h3 style="color:#00FFFF;">🔬 Pepper Plant Disease Prediction</h3>
+          <p style="color:#b0e0ff;">AI model using CNN & OpenCV to detect leaf diseases.</p>
+          <a href="https://github.com/deepspace1/pepper_plant_disease_prediction_using_ML" style="color:#00FFFF; text-decoration:none;">🔗 View Project</a>
+        </div>
+      </td>
+      <td width="33%" align="center" style="padding:15px;">
+        <div style="background:rgba(0,255,255,0.05); border:1px solid rgba(0,255,255,0.3); border-radius:12px; padding:20px;">
+          <h3 style="color:#00FFFF;">🧾 Attendo</h3>
+          <p style="color:#b0e0ff;">Barcode-based attendance system with CI/CD deployment.</p>
+          <a href="https://github.com/deepspace1/attendo" style="color:#00FFFF; text-decoration:none;">🔗 View Project</a>
+        </div>
+      </td>
+      <td width="33%" align="center" style="padding:15px;">
+        <div style="background:rgba(0,255,255,0.05); border:1px solid rgba(0,255,255,0.3); border-radius:12px; padding:20px;">
+          <h3 style="color:#00FFFF;">🗄️ Chat With SQL Database</h3>
+          <p style="color:#b0e0ff;">AI-powered interface to chat with SQL data using LangChain.</p>
+          <a href="https://github.com/deepspace1/chat_with_your_sql_database" style="color:#00FFFF; text-decoration:none;">🔗 View Project</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Neon Divider -->
+  <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 40px auto;">
+
+  <!-- Stats -->
+  <h2 style="color:#00FFFF;">📊 GitHub Stats</h2>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepspace1&show_icons=true&theme=react&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepspace1&theme=react&hide_border=true" />
+  </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=deepspace1&theme=radical&no-bg=true&margin-w=8"/>
+
+  <!-- Contact -->
+  <hr style="border: none; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); margin: 40px auto;">
+
+  <h2 style="color:#00FFFF;">📫 Connect With Me</h2>
+  <p>
+    <a href="mailto:harshkumar170604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/deepspace1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+
+  <p style="color:#a0ffff; font-style:italic; margin-top:30px;">
+    “Code with logic, create with purpose, and evolve with curiosity.” ✨
+  </p>
 </div>
-
-## 🚀 About Me
-- 🎓 BE, Computer Science & Engineering — Ramaiah Institute of Technology (2022–2026)  
-- 💻 Building **AI-integrated**, **DevOps-ready**, and **scalable** applications  
-- 🌱 Exploring **LangChain**, **Next.js 15**, and **Generative AI systems**  
-- 🧠 Love solving DSA, optimizing logic, and designing clean systems  
-
----
-
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,express,mongodb,mysql,tf,git,docker,jenkins,azure&perline=6" width="85%" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=header&reversal=true"/>
-</div>
-
-## 🏗️ Featured Projects
-
-### 🔬 [Pepper Plant Disease Prediction Model](https://github.com/deepspace1/pepper_plant_disease_prediction_using_ML)
-> 🌿 AI model detecting plant diseases via CNN & OpenCV  
-> 🧰 *Python • TensorFlow • Scikit-learn • Google Colab*
-
----
-
-### 🧾 [Attendo — Attendance Management System](https://github.com/deepspace1/attendo)
-> 📸 Real-time attendance marking using barcodes  
-> 🧰 *React • Node.js • MongoDB • Docker • Jenkins • Azure*  
-> ⚙️ Integrated CI/CD with GitHub Actions
-
----
-
-### 🗄️ [Chat With SQL Database](https://github.com/deepspace1/chat_with_your_sql_database)
-> 💬 AI tool to talk with SQL databases using natural language  
-> 🧰 *LangChain • Streamlit • Python • SQLite / MySQL*
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepspace1&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepspace1&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepspace1&theme=radical&no-bg=true&margin-w=6"/>
-</p>
-
----
-
-## 🔁 Live Interaction
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepspace1.deepspace1" alt="Visitors"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepspace1&layout=compact&theme=react&hide_border=true"/>
-</p>
-
----
-
-## 🧰 Tools & Workflow
-- 🔧 **Version Control:** Git & GitHub  
-- ⚙️ **CI/CD:** GitHub Actions, Jenkins  
-- 🐳 **Containers:** Docker  
-- ☁️ **Cloud:** Azure  
-- 💻 **Editors:** VS Code, Eclipse, Postman  
-
----
-
-## 🏅 Achievements
-- 🧠 Solved problems on *LeetCode*  
-- ☁️ AWS Cloud Foundations Certified  
-- 👨‍💻 Web Development Internship at **MSRIT** (2023–2024)
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:harshkumar170604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/deepspace1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=footer&reversal=true"/>
-</div>
-
-<p align="center">
-  <em>✨ “Code with logic, create with purpose, and evolve with curiosity.” ✨</em>
-</p>
-<!-- ==========================
-     HARSH KUMAR — PROFILE README
-     Theme: Futuristic AI x Tech x Space
-   ========================== -->
-
-<!-- Full-width banner -->
-<p align="center">
-  <img src="./e14f06da-f012-44d5-a7db-dee7091b017d.png" alt="Harsh Kumar Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.8);" />
-</p>
-
-<!-- Static Header -->
-<h1 align="center" style="font-family:Orbitron; font-weight:700; color:#00FFFF;">
-  Harsh Kumar
-</h1>
-
-<h3 align="center">
-  🚀 Full-Stack Developer | 🧠 AI & ML Enthusiast | ☁️ DevOps Learner
-</h3>
-
-<p align="center">
-  <em>Crafting intelligent systems that blend logic, design, and automation ✨</em>
-</p>
-
-<p align="center">
-  <!-- Badges -->
-  <img alt="Top Language" src="https://img.shields.io/badge/Top%20Lang-JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=header&reversal=true"/>
-</div>
-
-## 🚀 About Me
-- 🎓 BE, Computer Science & Engineering — Ramaiah Institute of Technology (2022–2026)  
-- 💻 Passionate about **AI-integrated**, **DevOps-ready**, and **scalable** systems  
-- 🌱 Currently exploring **LangChain**, **Next.js 15**, and **AI-powered web applications**  
-- 🧠 I love solving DSA, designing smart architectures, and automating workflows  
-
----
-
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,express,mongodb,mysql,tf,git,docker,jenkins,azure&perline=6" width="85%" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=header&reversal=true"/>
-</div>
-
-## 🏗️ Featured Projects
-
-### 🔬 [Pepper Plant Disease Prediction Model](https://github.com/deepspace1/pepper_plant_disease_prediction_using_ML)
-> 🌿 Built a CNN-based model to detect pepper plant diseases  
-> 🧰 *Python • TensorFlow • OpenCV • Scikit-learn • Colab*
-
----
-
-### 🧾 [Attendo — Attendance Management System](https://github.com/deepspace1/attendo)
-> 📸 Web app for barcode-based attendance tracking with CI/CD  
-> 🧰 *React • Node.js • MongoDB • Docker • Jenkins • Azure*
-
----
-
-### 🗄️ [Chat With SQL Database](https://github.com/deepspace1/chat_with_your_sql_database)
-> 💬 AI-powered chat interface to query databases in plain English  
-> 🧰 *LangChain • Streamlit • Python • SQLite / MySQL*
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepspace1&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepspace1&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepspace1&theme=radical&no-bg=true&margin-w=6"/>
-</p>
-
----
-
-## 🔁 Live Interaction
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepspace1.deepspace1" alt="Visitors"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepspace1&layout=compact&theme=react&hide_border=true"/>
-</p>
-
----
-
-## 🧰 Tools & Workflow
-- 🔧 **Version Control:** Git & GitHub  
-- ⚙️ **CI/CD:** GitHub Actions, Jenkins  
-- 🐳 **Containers:** Docker  
-- ☁️ **Cloud:** Azure  
-- 💻 **Editors:** VS Code, Eclipse, Postman  
-
----
-
-## 🏅 Achievements
-- 🧠 Solved problems on *LeetCode*  
-- ☁️ AWS Cloud Foundations Certified  
-- 👨‍💻 Web Development Internship at **MSRIT** (2023–2024)
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:harshkumar170604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/deepspace1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=2&section=footer&reversal=true"/>
-</div>
-
-<p align="center">
-  <em>✨ “Code with logic, create with purpose, and evolve with curiosity.” ✨</em>
-</p>
