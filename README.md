@@ -6,7 +6,7 @@
 
 <!-- Banner (neon / tech-futuristic) -->
 <p align="center">
-  <img src="./e14f06da-f012-44d5-a7db-dee7091b017d.png" alt="Harsh Kumar Banner" style="max-width:100%; border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.6)" />
+  <img src="./2c3dd0d7-0bbf-4d11-82dc-2052615f33a3.png" alt="Harsh Kumar Banner" style="max-width:100%; border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.6)" />
 </p>
 
 <h1 align="center">
